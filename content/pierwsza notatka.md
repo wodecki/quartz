@@ -1,0 +1,1 @@
+treść pierwszej notatki
