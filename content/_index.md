@@ -3,6 +3,6 @@ title: 🪴 AW
 ---
 To jest moja strona
 
-[[pierwsza notatka]]
+[pierwsza notatka](pierwszanotatka.md)
 
 [[druga notatka]]
